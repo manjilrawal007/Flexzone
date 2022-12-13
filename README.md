@@ -33,7 +33,8 @@ Here's a walkthrough of implemented user stories:
 
 
 
-https://media.giphy.com/media/EpmMFOqsvsAK1pPwJs/giphy.gif
+
+![Kapture 2022-12-12 at 19 51 15](https://user-images.githubusercontent.com/113137093/207229902-f0d5f25f-b7b8-4418-9066-eab3c76757e5.gif)
 
 <!--  -->
 GIF created with cCAP

@@ -29,12 +29,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:https://media.giphy.com/media/EpmMFOqsvsAK1pPwJs/giphy.gif
+Here's a walkthrough of implemented user stories: 
+https://media.giphy.com/media/EpmMFOqsvsAK1pPwJs/giphy.gif
 
 
 <img src='Flixster2Plus.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- AnimatedGif -->
+<!-- https://media.giphy.com/media/EpmMFOqsvsAK1pPwJs/giphy.gif -->
 GIF created with LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS

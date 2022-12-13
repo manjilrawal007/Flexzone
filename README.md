@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 
 
 
-<img src='Flixster2Plus.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://media.giphy.com/media/EpmMFOqsvsAK1pPwJs/giphy.gif
 
 <!--  -->
 GIF created with cCAP

@@ -5,7 +5,7 @@ Submitted by: **Manjil Rawal**
 
 **Flexzone+** is a movie browsing app that allows users to browse popular people and click on them for more information
 
-Time spent: **11** hours spent in total
+Time spent: **13** hours spent in total
 
 ## Required Features
 
@@ -30,15 +30,16 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories: 
-https://media.giphy.com/media/EpmMFOqsvsAK1pPwJs/giphy.gif
+
 
 
 <img src='Flixster2Plus.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- https://media.giphy.com/media/EpmMFOqsvsAK1pPwJs/giphy.gif -->
-GIF created with LICEcap
+<!--  -->
+GIF created with cCAP
 <!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
+[Kap](https://getkap.co/) for macOS![Kapture 2022-12-12 at 19 51 15](https://user-images.githubusercontent.com/113137093/207229344-419aaa2b-8dc6-44c2-92f8-1347e1c09b91.gif)
+
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
